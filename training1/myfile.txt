@@ -1,0 +1,5 @@
+Hello
+there
+am
+here
+Time_sample[123] time_sample[123] and time_sample -: write a regex for this to get both these from a file.Steps to follow will be read from a file and find the two pattern mentioned in that file
