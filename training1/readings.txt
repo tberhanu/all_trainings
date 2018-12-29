@@ -1,0 +1,47 @@
+https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf
+
+http://intronetworks.cs.luc.edu/current/ComputerNetworks.pdf
+
+Topic to narrow down the reading from the above pdf will be
+
+
+Networking topics:
+
+-----------------
+
+ROUTER,SWITCH,HUB
+
+NETWORK TOPOLOGY
+
+LAN,MAN,WAN
+
+OSI,TCP/IP LAYERS
+
+ETHERNET,COLLISION DOMAIN,
+
+IP ADDRESSING,HEADER DIAGRAM
+
+SUBNETTING-VLSM,FLSM.CALCULATIONS.
+
+ROUTING AND ROUTED PROTOCOLS,
+
+Private,Public IPs
+
+IPV4,IPV6
+
+UNICAST,BROADCAST,MULTICAST,
+
+HALF AND FULL DUPLEX
+
+DHCP,ICMP,TCP/UDP,ARP,RARP,OSPF,RIP.
+
+IP,MAC,NAT,WAP,PDU,HOP COUNT,SNMP
+
+STP-SPANNING TREE PROTOCOLS
+
+VLAN,VTP,ACLs(ACCESS CONTROL LIST)
+
+RIP, IGRP, EIGRP, OSPF,BGP
+
+
+
