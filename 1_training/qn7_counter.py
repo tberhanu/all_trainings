@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 def count_pattern(str):
     """count_pattern(str) --> counts the number of a's followed by 0 within the string
 
@@ -10,5 +12,7 @@ def count_pattern(str):
             cntr = cntr + 1
     return cntr
 
-print(count_pattern("a0kkka0hdhda0"))
-print(count_pattern("kida0 a 0 defa00a"))
+if __name__ == "__main__":
+
+    print(count_pattern("a0kkka0hdhda0"))
+    print(count_pattern("kida0 a 0 defa00a"))

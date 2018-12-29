@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 import random
 import time
 
@@ -67,26 +69,26 @@ def common_bubble_sort(arr):
             break
     return arr
 
-
-arr = []
-for x in range(10000):
-  arr.append(random.randint(1, 10000))
-
-
+if __name__ == "__main__":
+    arr = []
+    for x in range(10000):
+      arr.append(random.randint(1, 10000))
 
 
 
-print(optimized_bubble_sort.__doc__)
-start_time = time.time()
-for key, value in enumerate(optimized_bubble_sort(arr)):
-    print(key + 1, value)
-print(optimized_bubble_sort(arr))
-print("--- %s seconds ---" % (time.time() - start_time))
 
 
-# print(common_bubble_sort.__doc__)
-# start_time = time.time()
-# for key, value in enumerate(common_bubble_sort2(arr)):
-#     print(key + 1, value)
-# print(common_bubble_sort(arr))
-# print("--- %s seconds ---" % (time.time() - start_time))
+    print(optimized_bubble_sort.__doc__)
+    start_time = time.time()
+    for key, value in enumerate(optimized_bubble_sort(arr)):
+        print(key + 1, value)
+    print(optimized_bubble_sort(arr))
+    print("--- %s seconds ---" % (time.time() - start_time))
+
+
+    # print(common_bubble_sort.__doc__)
+    # start_time = time.time()
+    # for key, value in enumerate(common_bubble_sort2(arr)):
+    #     print(key + 1, value)
+    # print(common_bubble_sort(arr))
+    # print("--- %s seconds ---" % (time.time() - start_time))

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 import re
 
 
@@ -9,5 +11,6 @@ def main():
         for match in matches:
             print(match.group())
 
+if __name__ == "__main__":
 
-main()
+    main()

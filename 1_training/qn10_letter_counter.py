@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 def counter(str):
     upper = []
     lower = []
@@ -12,5 +14,6 @@ def counter(str):
     print ("UPPER CASE {}".format(len(upper)))
     print ("LOWER CASE {}".format(len(lower)))
 
+if __name__ == "__main__":
 
-counter("Hello world!")
+    counter("Hello world!")

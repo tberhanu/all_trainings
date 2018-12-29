@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 def increment_ip():
     """increment_ip() --> increment ip address starting from 10.10.10.1 up to 10.11.255.255
 
@@ -15,9 +17,11 @@ def increment_ip():
     arr2.append(last)
     return arr1 + arr2
 
-# print(increment_ip.__doc__)
-array = increment_ip()
-# print(array)
+if __name__ == "__main__":
 
-for a in array:
-    print(a)
+    # print(increment_ip.__doc__)
+    array = increment_ip()
+    # print(array)
+
+    for a in array:
+        print(a)

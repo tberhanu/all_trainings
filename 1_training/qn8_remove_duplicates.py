@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 def remove_duplicates(arr):
     """
 
@@ -15,5 +17,6 @@ def remove_duplicates(arr):
 
     return arr2, len(arr2)
 
+if __name__ == "__main__":
 
-print(remove_duplicates([1, 3, 3, 4, 5, 3, 8, 5]))
+    print(remove_duplicates([1, 3, 3, 4, 5, 3, 8, 5]))

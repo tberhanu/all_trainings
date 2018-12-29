@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 def fib(n):
     """
     :param n: integer
@@ -21,5 +23,7 @@ def fibonnacci(n, dict):
         dict[n] = fibonnacci(n - 1, dict) + fibonnacci(n - 2, dict)
         return dict[n]
 
-for i in range(100):
-    print (i, fib(i))
+if __name__ == "__main__":
+
+    for i in range(100):
+        print (i, fib(i))

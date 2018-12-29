@@ -1,3 +1,6 @@
+#!/usr/bin/env python3.7
+
+
 class Animal:
     def catagory(self):
         print("catagorized as animal")
@@ -9,14 +12,15 @@ class Dog(Animal):
         print("sounds like dog by overriding sounds of the Animal")
 
 
+if __name__ == "__main__":
 
-animal = Animal()
-animal.catagory()
-animal.sounding()
+    animal = Animal()
+    animal.catagory()
+    animal.sounding()
 
 
-dog= Dog()
-dog.catagory()
-dog.sounding()
+    dog= Dog()
+    dog.catagory()
+    dog.sounding()
 
 
