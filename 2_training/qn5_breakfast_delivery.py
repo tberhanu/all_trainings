@@ -24,11 +24,11 @@ def get_lost_drones(lst):
 
 if __name__ == "__main__":
     delivery_id_confirmations = [1, 2, 3, 4, 2, 3, 4, 1, 5, 9, 9, 9, 9, 44, 44, 88, 88, 100, 100, 100, 100, 100, 100]
-    print(get_lost_drones(delivery_id_confirmations))
+    print("The lost drone id is {}".format(get_lost_drones(delivery_id_confirmations)))
 
     arr = []
     for x in range(100):
         arr.append(random.randint(1, 101))
     # print(arr)
-    print(get_lost_drones(arr))
+    print("All the lost drones ids are listed here {}".format(get_lost_drones(arr)))
 

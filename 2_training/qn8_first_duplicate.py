@@ -21,3 +21,5 @@ def first_duplicate(arr):
 if __name__ == "__main__":
     print(first_duplicate([2, 3, 0, 1, 5, 2, 3]))
     print(first_duplicate([2, 3, 3, 1, 5, 2]))
+
+    
