@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c196cad9-6fac-4c1e-bd4f-ba1f1bdbbc56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_training/decode_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_training/validate_postal_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3_training/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c196cad9-6fac-4c1e-bd4f-ba1f1bdbbc56" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +9,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_minion_game_py.coverage" NAME="Unittests in test_minion_game.py Coverage Results" MODIFIED="1547826759070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_largest_prime_factor_py.coverage" NAME="Unittests in test_largest_prime_factor.py Coverage Results" MODIFIED="1547826771208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_mergeTheTools_py.coverage" NAME="Unittests in test_mergeTheTools.py Coverage Results" MODIFIED="1547826765831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_largest_palindrome_substring_py.coverage" NAME="Unittests in test_largest_palindrome_substring.py Coverage Results" MODIFIED="1547826777041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_esp_palindrome_again_py.coverage" NAME="Unittests in test_esp_palindrome_again.py Coverage Results" MODIFIED="1547826787799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
     <SUITE FILE_PATH="coverage/All_Trainings$validate_postal_code.coverage" NAME="validate_postal_code Coverage Results" MODIFIED="1547075743125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_time_delta_py.coverage" NAME="Unittests in test_time_delta.py Coverage Results" MODIFIED="1547826742750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
+    <SUITE FILE_PATH="coverage/All_Trainings$Unittests_in_test_largest_palindrome_py.coverage" NAME="Unittests in test_largest_palindrome.py Coverage Results" MODIFIED="1547826781988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_training" />
     <SUITE FILE_PATH="coverage/All_Trainings$decode_matrix.coverage" NAME="decode_matrix Coverage Results" MODIFIED="1547075749006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_training" />
   </component>
   <component name="FileEditorManager">
@@ -137,55 +139,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decode_matrix">
-    <configuration name="decode_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_esp_palindrome_again.py">
+    <configuration name="Unittests in test_esp_palindrome_again.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="All_Trainings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_training/decode_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/5_training/test_esp_palindrome_again.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="validate_postal_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in test_largest_palindrome.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="All_Trainings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_training/validate_postal_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/5_training/test_largest_palindrome.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_largest_palindrome_substring.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="All_Trainings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/5_training/test_largest_palindrome_substring.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_largest_prime_factor.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="All_Trainings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/5_training/test_largest_prime_factor.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_mergeTheTools.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="All_Trainings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/5_training/test_mergeTheTools.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decode_matrix" />
-        <item itemvalue="Python.validate_postal_code" />
+        <item itemvalue="Python tests.Unittests in test_esp_palindrome_again.py" />
+        <item itemvalue="Python tests.Unittests in test_largest_palindrome.py" />
+        <item itemvalue="Python tests.Unittests in test_largest_palindrome_substring.py" />
+        <item itemvalue="Python tests.Unittests in test_largest_prime_factor.py" />
+        <item itemvalue="Python tests.Unittests in test_mergeTheTools.py" />
       </list>
     </recent_temporary>
   </component>
@@ -199,29 +235,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547054123424</updated>
-      <workItem from="1547054125000" duration="9931000" />
+      <workItem from="1547054125000" duration="10217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9931000" />
+    <option name="totallyTimeSpent" value="10217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32756326" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.32756326" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32756326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3.7
+import unittest
 
 def fib(n):
     """
@@ -23,7 +24,16 @@ def fibonnacci(n, dict):
         dict[n] = fibonnacci(n - 1, dict) + fibonnacci(n - 2, dict)
         return dict[n]
 
-if __name__ == "__main__":
-
-    for i in range(100):
-        print (i, fib(i))
+# if __name__ == "__main__":
+#
+#     for i in range(100):
+#         print (i, fib(i))
+if __name__ == '__main__':
+    unittest.main()
+# def test_fib():
+#     result = fib(3)
+#     assert result == 2
+#     result = fib(5)
+#     assert result == 5
+#     result = fib(10)
+#     assert result == 55
