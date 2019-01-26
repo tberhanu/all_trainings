@@ -17,7 +17,7 @@ def make_floors():
     :return: Array of integers
     """
     floors = []
-    highest_safe_floor = random.randint(1, 101)
+    highest_safe_floor = random.randint(1, 100) # throws random int including 100
     print("For the sake of testing the result, here is the expected highest floor number: {}".format(highest_safe_floor))
     for i in range(1, 101):
         if i <= highest_safe_floor:
