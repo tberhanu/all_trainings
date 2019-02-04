@@ -43,5 +43,3 @@ if __name__ == "__main__":
     msg2 = ['h', 'e', 'l', 'l', 'o', ' ', 'a', 'l', 'l', ' ', 'n', 'e', 'w', ' ', 'w', 'o', 'r', 'l', 'd']
     inplace_reverse(msg2)
     print(''.join(msg2))
-
-

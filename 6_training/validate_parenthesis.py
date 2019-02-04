@@ -25,11 +25,11 @@ def minAddToMakeValid(string):
                 i = i + 1
     return open + cntr
 
-# string = "())"
-# print(minAddToMakeValid(string))
-# string = "((("
-# print(minAddToMakeValid(string))
-# string = "()"
-# print(minAddToMakeValid(string))
-# string = "()))(("
-# print(minAddToMakeValid(string))
+string = "())"
+print(minAddToMakeValid(string))
+string = "((("
+print(minAddToMakeValid(string))
+string = "()"
+print(minAddToMakeValid(string))
+string = "()))(("
+print(minAddToMakeValid(string))

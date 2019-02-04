@@ -22,5 +22,7 @@ def containsNearbyAlmostDuplicate(nums, k, t):
                 return True
     return False
 
-nums = [1,5,9,1,5,9]
-print(containsNearbyAlmostDuplicate(nums, 2, 3))
+# nums = [1,5,9,1,5,9]
+# print(containsNearbyAlmostDuplicate(nums, 2, 3))
+nums = [1,2,3,1]
+print(containsNearbyAlmostDuplicate(nums, 3, 0))

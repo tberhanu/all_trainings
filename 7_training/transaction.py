@@ -9,7 +9,7 @@ class Account():
         self.curr_dep = self.curr_dep + amt
 
     def withdraw(self, amt):
-        if amt > 2000:
+        if amt > ATM.max_withdrawal:
             print("Amount exceed the limit")
         else:
             self.curr_dep = self.curr_dep - amt
@@ -31,5 +31,4 @@ class Main():
     print(atm.curr_dep)
     atm.withdraw(6300)
     print(atm.curr_dep)
-
-
+    print(ATM.max_withdrawal)

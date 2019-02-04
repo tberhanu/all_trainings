@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4972d59b-c028-444e-bab8-fa97dc843697" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../8_training/findall_regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/foo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/foo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/largest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/matrix_list_compression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/most_common_and_alphabetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/runner_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/unique_or_non_unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_first_duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_highest_eggsafe_floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12**??_special_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_array_flattening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_largest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_largest_prime_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_is_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_remove_repeated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18***_shuffling_advantage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19***_array_indices_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_count_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_lowest_common_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_esp_reversed_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25*_min_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26*_wiggle_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_esp_substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_most_common_repeated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_compress_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_longest_repeated_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_first_consecutive_repetition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31**_groupby_state_color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_permutations_combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33**_min_flip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_start_end_index_of_substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_substitute_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36_switch_date_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37_identify_float_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_dict_from_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_bool_all_unique_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40_email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41_second_largest_smallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_remove_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_count_caps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6***_array_alteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_queue_of_2stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_reverse_array_inplace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_is_scrambled_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_product_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_link_38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_max_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_training/qn1_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn1_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_training/qn6_inplace_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn6_inplace_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_training/qn8_first_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn8_first_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_training/contains_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6_training/contains_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_training/validate_parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6_training/validate_parenthesis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_training/another_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/another_regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_training/re_sub_ffed_by.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/re_sub_ffed_by.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_training/transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/transaction.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/36_switch_date_format.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/37_identify_float_format.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverse_link_38.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/39_dict_from_arrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/40_email_validator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/41_second_largest_smallest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_reverse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20_count_nodes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="22" selection-start-line="18" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/35_substitute_substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/3_bool_all_unique_letters.py" />
+        <option value="$PROJECT_DIR$/4_remove_duplicates.py" />
+        <option value="$PROJECT_DIR$/5_count_caps.py" />
+        <option value="$PROJECT_DIR$/6_array_alteration.py" />
+        <option value="$PROJECT_DIR$/6***_array_alteration.py" />
+        <option value="$PROJECT_DIR$/7_queue_of_2stacks.py" />
+        <option value="$PROJECT_DIR$/8_reverse_array_inplace.py" />
+        <option value="$PROJECT_DIR$/9_is_scrambled_palindrome.py" />
+        <option value="$PROJECT_DIR$/10_first_duplicate.py" />
+        <option value="$PROJECT_DIR$/11_highest_eggsafe_floor.py" />
+        <option value="$PROJECT_DIR$/12_special_palindrome.py" />
+        <option value="$PROJECT_DIR$/12**??_special_palindrome.py" />
+        <option value="$PROJECT_DIR$/13_array_flattening.py" />
+        <option value="$PROJECT_DIR$/15_largest_prime_factor.py" />
+        <option value="$PROJECT_DIR$/16_is_prime.py" />
+        <option value="$PROJECT_DIR$/17_remove_repeated.py" />
+        <option value="$PROJECT_DIR$/18_shuffling_advantage.py" />
+        <option value="$PROJECT_DIR$/18***_shuffling_advantage.py" />
+        <option value="$PROJECT_DIR$/19_array_indices_condition.py" />
+        <option value="$PROJECT_DIR$/19***_array_indices_condition.py" />
+        <option value="$PROJECT_DIR$/21_lowest_common_ancestor.py" />
+        <option value="$PROJECT_DIR$/22_matrix_inplace_manipulation.py" />
+        <option value="$PROJECT_DIR$/test_matrix_product.py" />
+        <option value="$PROJECT_DIR$/test_matrix.py" />
+        <option value="$PROJECT_DIR$/matrix_22.py" />
+        <option value="$PROJECT_DIR$/23_max_product.py" />
+        <option value="$PROJECT_DIR$/test_max_product.py" />
+        <option value="$PROJECT_DIR$/max_product_23.py" />
+        <option value="$PROJECT_DIR$/24_esp_reversed_string.py" />
+        <option value="$PROJECT_DIR$/25_min_parenthesis.py" />
+        <option value="$PROJECT_DIR$/26_wiggle_sequence.py" />
+        <option value="$PROJECT_DIR$/26*_wiggle_sequence.py" />
+        <option value="$PROJECT_DIR$/27_esp_substrings.py" />
+        <option value="$PROJECT_DIR$/28_most_common_repeated.py" />
+        <option value="$PROJECT_DIR$/29_compress_string.py" />
+        <option value="$PROJECT_DIR$/30_first_consecutive_repetition.py" />
+        <option value="$PROJECT_DIR$/31_groupby_state_color.py" />
+        <option value="$PROJECT_DIR$/32_permutations_combinations.py" />
+        <option value="$PROJECT_DIR$/33_min_flip.py" />
+        <option value="$PROJECT_DIR$/34_start_end_index_of_substrings.py" />
+        <option value="$PROJECT_DIR$/35_substitute_substring.py" />
+        <option value="$PROJECT_DIR$/36_switch_date_format.py" />
+        <option value="$PROJECT_DIR$/37_identify_float_format.py" />
+        <option value="$PROJECT_DIR$/38_reverse_linkedlist.py" />
+        <option value="$PROJECT_DIR$/test_reverse.py" />
+        <option value="$PROJECT_DIR$/20_count_nodes.py" />
+        <option value="$PROJECT_DIR$/reverse_link_38.py" />
+        <option value="$PROJECT_DIR$/39_dict_from_arrays.py" />
+        <option value="$PROJECT_DIR$/40_email_validator.py" />
+        <option value="$PROJECT_DIR$/41_second_largest_smallest.py" />
+        <option value="$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="revision_1_to_7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="revision_1_to_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.42_arr_unique_nonunique_repeated">
+    <configuration name="39_dict_from_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="revision_1_to_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_dict_from_arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="40_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="revision_1_to_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_email_validator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="41_second_largest_smallest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="revision_1_to_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41_second_largest_smallest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42_arr_unique_nonunique_repeated" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="revision_1_to_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_reverse.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="revision_1_to_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_reverse.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.42_arr_unique_nonunique_repeated" />
+        <item itemvalue="Python.41_second_largest_smallest" />
+        <item itemvalue="Python.40_email_validator" />
+        <item itemvalue="Python.39_dict_from_arrays" />
+        <item itemvalue="Python tests.Unittests in test_reverse.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4972d59b-c028-444e-bab8-fa97dc843697" name="Default Changelist" comment="" />
+      <created>1549124247397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549124247397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 15m 40s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 16m 26s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 21m 01s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 21m 23s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 22m 57s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_max_product_py - 2019.02.03 at 21h 25m 42s.xml">
+      <configuration name="Unittests in test_max_product.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_reverse_py - 2019.02.04 at 14h 24m 16s.xml">
+      <configuration name="Unittests in test_reverse.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_reverse_py - 2019.02.04 at 14h 30m 18s.xml">
+      <configuration name="Unittests in test_reverse.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_reverse_py - 2019.02.04 at 14h 35m 24s.xml">
+      <configuration name="Unittests in test_reverse.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_reverse_py - 2019.02.04 at 14h 35m 54s.xml">
+      <configuration name="Unittests in test_reverse.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1437649" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/42_largest_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_longest_repeated_substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_bool_all_unique_letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_remove_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_count_caps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6***_array_alteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="88" selection-start-line="13" selection-start-column="88" selection-end-line="13" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_reverse_array_inplace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_is_scrambled_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_first_duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_highest_eggsafe_floor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12**??_special_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_array_flattening.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_largest_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_longest_palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_largest_prime_factor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_is_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#68#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_remove_repeated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18***_shuffling_advantage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_queue_of_2stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19***_array_indices_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_lowest_common_ancestor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_max_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_product_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_esp_reversed_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25*_min_parenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26*_wiggle_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27_esp_substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28_most_common_repeated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_compress_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30_first_consecutive_repetition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31**_groupby_state_color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32_permutations_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33**_min_flip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34_start_end_index_of_substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35_substitute_substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36_switch_date_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/37_identify_float_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_count_nodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="22" selection-start-line="18" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_link_38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_dict_from_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/40_email_validator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41_second_largest_smallest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

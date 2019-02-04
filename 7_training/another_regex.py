@@ -1,7 +1,7 @@
 """ https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?h_r=next-challenge&h_v=zen
-You are given a string . It consists of alphanumeric characters, spaces and symbols(+,-).
-Your task is to find all the substrings of  that contains  or more vowels.
-Also, these substrings must lie in between  consonants and should contain vowels only.
+You are given a string S. It consists of alphanumeric characters, spaces and symbols(+,-).
+Your task is to find all the substrings of S that contains 2 or more vowels.
+Also, these substrings must lie in between 2 consonants and should contain vowels only.
 """
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import sys
