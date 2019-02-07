@@ -1,38 +1,27 @@
-# def palindrome(string):
-#     i, j = 0, len(string)
-#     while i < j:
-#         if is_pal(string[i:j]):
-#             return string[i:j]
-#         if is_pal(string[i+1:j]):
-#             return string[i+1:j]
-#         if is_pal(string[i:j-1]):
-#             return string[i:j-1]
-#         i = i + 1
-#         j = j - 1
+
 def palindrome(string):
-    save = ""
+    i = 0
+    j = len(string)
 
-    for i in range(len(string)):
-
-        for j in range(len(string), -1, -1):
-
-            str = string[i:j]
-            if str == str[::-1] and len(str) > len(save):
-                save = str
-                break
-        next = string[i+1:]
-        if len(save) >= len(next):
-            print(save)
-def is_pal(str):
-
-    return str == str[::-1]
+    while i < j:
+        biggest = string[i:j]
+        if biggest == biggest[::-1]:
+            return biggest
+        bigger1 = string[i + 1:j]
+        bigger2 = string[i:j - 1]
+        if bigger1 == bigger1[::-1]:
+            return bigger1
+        if bigger2 == bigger2[::-1]:
+            return bigger2
+        i = i + 1
+        j = j - 1
 
 # print(palindrome("babad"))
 # print(palindrome("cbbd"))
 # print(palindrome("dbabbabcd"))
 
-palindrome("babad")
+print(palindrome("babad"))
 print("----")
-palindrome("cbbd")
+print(palindrome("cbbd"))
 print("----")
-palindrome("dbabbabcd")
+print(palindrome("dbabbabcd"))

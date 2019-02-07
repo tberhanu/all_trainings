@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4972d59b-c028-444e-bab8-fa97dc843697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../8_training/findall_regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/foo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/foo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/largest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/matrix_list_compression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/most_common_and_alphabetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/runner_up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/unique_or_non_unique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_first_duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_highest_eggsafe_floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12**??_special_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_array_flattening.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_largest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_largest_prime_factor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_is_prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_remove_repeated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18***_shuffling_advantage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19***_array_indices_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_longest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_count_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_lowest_common_ancestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_esp_reversed_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25*_min_parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26*_wiggle_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27_esp_substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_most_common_repeated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_compress_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_longest_repeated_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_first_consecutive_repetition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31**_groupby_state_color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_permutations_combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33**_min_flip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_start_end_index_of_substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35_substitute_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36_switch_date_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37_identify_float_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39_dict_from_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_bool_all_unique_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40_email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_second_largest_smallest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42_arr_unique_nonunique_repeated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_remove_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_count_caps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6***_array_alteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_queue_of_2stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_reverse_array_inplace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_is_scrambled_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_product_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_link_38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_max_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2_training/qn1_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn1_products.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2_training/qn6_inplace_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn6_inplace_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2_training/qn8_first_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2_training/qn8_first_duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6_training/contains_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6_training/contains_duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6_training/validate_parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6_training/validate_parenthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_training/another_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/another_regex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_training/re_sub_ffed_by.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/re_sub_ffed_by.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7_training/transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7_training/transaction.py" afterDir="false" />
-    </list>
+    <list default="true" id="4972d59b-c028-444e-bab8-fa97dc843697" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -441,7 +378,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
