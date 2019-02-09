@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045f8ad3-4d1a-4ce5-be79-007d3f3682dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/longest_common_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_1/dates_interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_1/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_1/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_1/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_2/addition_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_2/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_2/directory_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_2/even_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_2/test_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_3/all_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_3/is_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_3/primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_3/sorting_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_3/validate_ipv4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_4/connecting_device.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_4/increment_ip_address.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_4/validate_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../more_practice/Day_4/validate_phone_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/largest_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/largest_palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runner_up.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner_up.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../revision_1_to_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../revision_1_to_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../more_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../more_practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../more_practice/Day_4/connecting_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/../more_practice/Day_4/connecting_device.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,10 +123,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -310,7 +289,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="1" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13264495" />
