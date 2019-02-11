@@ -3,17 +3,23 @@
 """
 
 def longest_palindrome(string):
-    i = 0
-    pal = string[0]
-    while i < len(string):
-        j = i + 2
-        while j <= len(string):
-            if string[i:j] == string[i:j][::-1]:
-                if len(string[i:j]) > len(pal):
-                    pal = string[i:j]
-            j = j + 1
-        i = i + 1
-    return pal
+    if string == "":
+            return ""
+        i = 0
+        pal = string[0]
+        while i < len(string):
+            j = len(string)
+            if len(string[i:j]) <= len(pal):
+                    return pal
+            while j >= 0:
+
+                if string[i:j] == string[i:j][::-1]:
+                    if len(string[i:j]) > len(pal):
+                        pal = string[i:j]
+                    break
+                j = j - 1
+            i = i + 1
+        return pal
 
 
 import numpy as np
