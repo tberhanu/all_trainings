@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4991104-48e0-416b-be8a-88fd05624b93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../8_training/add_two_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/del_and_make_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/length_of_longest_nonrepeating_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/longest_palindromic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/longest_palindromic_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/longest_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/two_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8_training/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day_4/connecting_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4/connecting_device.py" afterDir="false" />
@@ -98,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day_4/connecting_device.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="126">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -374,7 +382,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,6 +519,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day_1/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day_4/increment_ip_address.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -525,17 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day_1/factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day_4/connecting_device.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="126">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>

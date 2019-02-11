@@ -12,3 +12,4 @@ def connecting_device():
     print(str(ssh.before, encoding="utf-8"))
 
 connecting_device()
+
