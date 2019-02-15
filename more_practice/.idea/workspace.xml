@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4991104-48e0-416b-be8a-88fd05624b93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../8_training/add_two_nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/del_and_make_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/length_of_longest_nonrepeating_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/longest_palindromic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/longest_palindromic_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/longest_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/median.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8_training/two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8_training/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/13_roman_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/14_longest_common_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/9_is_num_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/foo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_training/reverse_integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_4/connecting_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4/connecting_device.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
