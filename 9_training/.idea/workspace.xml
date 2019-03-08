@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a80a3c2b-14c5-4cba-b181-c63a485a25b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_3sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/216***_combination_sum_III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220***_contains_duplicate_III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/222_count_complete_tree_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_generate_parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_add_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3**_longest_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/318_max_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/376_wiggle_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/396_rotate_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46***_permutuations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/467***??_unique_wrapparround.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47***_permutuationsII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5**_longest_palindrome_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/73_set_matrix_zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/870*****_advantage_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/921_add-parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/926_flip_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LL*-middle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LL*_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LL_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buddy_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains_duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains_duplicatesII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detect_capital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gcd*.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/happy_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invert_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ispmerphic*_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/long*_pressed_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_stack*.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power_of_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove_ll_elt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotate_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str_without_3A3B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_max_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transpose*_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_sumII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_phone_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/318_max_product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="648">
               <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
             </state>
           </provider>
@@ -89,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/376_wiggle_subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="594">
               <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             </state>
           </provider>
@@ -98,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/396_rotate_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="612">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
@@ -107,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/467***??_unique_wrapparround.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-229">
+            <state relative-caret-position="702">
               <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
@@ -116,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/870*****_advantage_shuffle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="792">
               <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
             </state>
           </provider>
@@ -125,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/921_add-parenthesis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="972">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
@@ -134,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/926_flip_string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="1116">
               <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
             </state>
           </provider>
@@ -143,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add_digits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="342">
               <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
@@ -218,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
@@ -229,6 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,7 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,15 +349,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979592" visible="true" weight="0.16362192" />
       <window_info id="Structure" order="1" sideWeight="0.5020408" side_tool="true" weight="0.2494043" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3785489" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3785489" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,59 +641,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_digits.py">
+    <entry file="file://$PROJECT_DIR$/318_max_product.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/926_flip_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/921_add-parenthesis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/870*****_advantage_shuffle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/467***??_unique_wrapparround.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-229">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/396_rotate_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="648">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/376_wiggle_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="594">
           <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/318_max_product.py">
+    <entry file="file://$PROJECT_DIR$/396_rotate_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/467***??_unique_wrapparround.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/870*****_advantage_shuffle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/921_add-parenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/926_flip_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
